@@ -1,0 +1,51 @@
+name: Update BEU PYQ PDF Index
+
+on:
+  push:
+    paths:
+      - "beu-pyq-pdfs/pdfs/**"
+      - "beu-pyq-pdfs/scripts/generate_index.py"
+      - ".github/workflows/update-pdf-index.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: beu-pyq-pdf-index-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate papers.json
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: python beu-pyq-pdfs/scripts/generate_index.py
+
+      - name: Commit updated index
+        run: |
+          git add beu-pyq-pdfs/papers.json
+
+          if git diff --cached --quiet; then
+            echo "Index is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update BEU PYQ PDF index"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
