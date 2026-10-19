@@ -2,6 +2,13 @@
   "version": 1,
   "papers": [
     {
+      "id": "101408-2024",
+      "code": "101408",
+      "subject": "Structure analysis",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101408__Structure%20analysis__2024.pdf"
+    },
+    {
       "id": "101408-2023",
       "code": "101408",
       "subject": "structural analysis",
