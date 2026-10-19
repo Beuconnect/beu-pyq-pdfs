@@ -1,3 +1,4 @@
+
 import json
 import os
 import re
@@ -12,8 +13,7 @@ OUTPUT_FILE = ROOT / "papers.json"
 REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 
-# Filename format:
-# CODESUBJECT NAMEYEAR.pdf
+# Filename format: CODESUBJECT NAMEYEAR.pdf
 FILENAME_PATTERN = re.compile(
     r"^([A-Za-z0-9-]+)(.+)((?:19|20)\d{2})\.pdf$",
     re.IGNORECASE,
@@ -112,5 +112,5 @@ def main():
     )
 
 
-if__name__=="__main__":
+if __name__ == "__main__":
     main()
