@@ -112,5 +112,5 @@ def main():
     )
 
 
-if__name__ == "__main__":
+if__name__=="__main__":
     main()
