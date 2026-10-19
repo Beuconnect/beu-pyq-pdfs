@@ -2,6 +2,13 @@
   "version": 1,
   "papers": [
     {
+      "id": "101408-2023",
+      "code": "101408",
+      "subject": "structural analysis",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/pdfs/101408__structural%20analysis__2023.pdf"
+    },
+    {
       "id": "105707-2021",
       "code": "105707",
       "subject": "E-Commerce and Erp",
