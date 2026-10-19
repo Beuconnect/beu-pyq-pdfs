@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "papers": []
+  "papers": [
+    {
+      "id": "105707-2021",
+      "code": "105707",
+      "subject": "E-Commerce and Erp",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/pdfs/105707__E-Commerce%20and%20Erp__2021.pdf"
+    }
+  ]
 }
