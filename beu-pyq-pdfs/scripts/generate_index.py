@@ -5,28 +5,37 @@ import re
 from pathlib import Path
 from urllib.parse import quote
 
-# Folder containing this script's parent directory
+# This script is inside:
+# beu-pyq-pdfs/scripts/generate_index.py
+#
+# Repository structure:
+# beu-pyq-pdfs/
+#   beu-pyq-pdfs/
+#     scripts/generate_index.py
+#     pdfs/
+#     papers.json
+
 ROOT = Path(__file__).resolve().parents[1]
 PDF_DIR = ROOT / "pdfs"
 OUTPUT_FILE = ROOT / "papers.json"
 
-REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")
-BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
+REPOSITORY = os.environ.get(
+    "GITHUB_REPOSITORY",
+    "Beuconnect/beu-pyq-pdfs"
+).strip()
 
-# Filename format: CODESUBJECT NAMEYEAR.pdf
+BRANCH = os.environ.get("GITHUB_REF_NAME", "main").strip() or "main"
+
+# Supported filename examples:
+# 105707__E-Commerce and Erp__2021.pdf
+# 101408__Structural Analysis__2023.pdf
 FILENAME_PATTERN = re.compile(
-    r"^([A-Za-z0-9-]+)(.+)((?:19|20)\d{2})\.pdf$",
+    r"^([A-Za-z0-9-]+)__(.+)__((?:19|20)\d{2})\.pdf$",
     re.IGNORECASE,
 )
 
 
 def main():
-    if not REPOSITORY:
-        raise RuntimeError(
-            "GITHUB_REPOSITORY is missing. "
-            "Run this script through GitHub Actions."
-        )
-
     if not PDF_DIR.is_dir():
         raise FileNotFoundError(
             f"PDF folder not found: {PDF_DIR}"
@@ -39,24 +48,31 @@ def main():
         if not pdf.is_file() or pdf.suffix.lower() != ".pdf":
             continue
 
-        relative_path = pdf.relative_to(ROOT).as_posix()
         match = FILENAME_PATTERN.fullmatch(pdf.name)
 
         if not match:
-            invalid_files.append(pdf.name)
+            invalid_files.append(
+                pdf.relative_to(ROOT).as_posix()
+            )
             continue
 
         code, subject, year = match.groups()
+
         subject = " ".join(
             subject.replace("_", " ").split()
-        )
+        ).strip()
 
         if not subject:
             invalid_files.append(pdf.name)
             continue
 
+        # Include the nested folder in the GitHub URL.
+        # ROOT.parent is the repository root for the confirmed
+        # repository structure described above.
+        relative_path = pdf.relative_to(ROOT.parent).as_posix()
+
         encoded_path = quote(relative_path, safe="/")
-        encoded_branch = quote(BRANCH, safe="/")
+        encoded_branch = quote(BRANCH, safe="")
 
         pdf_url = (
             "https://raw.githubusercontent.com/"
@@ -71,15 +87,13 @@ def main():
             "pdfUrl": pdf_url,
         })
 
-    # Reject invalid filenames to prevent incomplete indexes.
     if invalid_files:
         raise ValueError(
-            "Invalid PDF filenames. Use "
-            "CODESUBJECT NAMEYEAR.pdf:\n- "
+            "Invalid PDF filenames. Expected "
+            "CODE__SUBJECT__YEAR.pdf:\n- "
             + "\n- ".join(invalid_files)
         )
 
-    # Each code/year combination must be unique.
     ids = [paper["id"] for paper in papers]
 
     if len(ids) != len(set(ids)):
@@ -106,10 +120,16 @@ def main():
         encoding="utf-8",
     )
 
-    print(
-        f"Generated {OUTPUT_FILE} "
-        f"with {len(papers)} papers."
-    )
+    print(f"Repository: {REPOSITORY}")
+    print(f"Branch: {BRANCH}")
+    print(f"PDF directory: {PDF_DIR}")
+    print(f"Generated {OUTPUT_FILE} with {len(papers)} papers.")
+
+    for paper in papers:
+        print(
+            f'{paper["code"]} | {paper["subject"]} | '
+            f'{paper["year"]} | {paper["pdfUrl"]}'
+        )
 
 
 if __name__ == "__main__":
