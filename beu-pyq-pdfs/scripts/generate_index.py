@@ -5,7 +5,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 # Folder containing this script's parent directory
-ROOT = Path(file).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[1]
 PDF_DIR = ROOT / "pdfs"
 OUTPUT_FILE = ROOT / "papers.json"
 
