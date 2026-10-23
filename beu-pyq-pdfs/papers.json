@@ -2,6 +2,34 @@
   "version": 1,
   "papers": [
     {
+      "id": "101401-2025",
+      "code": "101401",
+      "subject": "4 SEM CIVIL ENGINRING SOCIETAL AND GLOBAL IMPACT",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101401__4%20SEM%20CIVIL%20ENGINRING%20SOCIETAL%20AND%20GLOBAL%20IMPACT__2025.pdf"
+    },
+    {
+      "id": "101403-2025",
+      "code": "101403",
+      "subject": "4 SEM ENGINRING GEOLOGY",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101403__4%20SEM%20ENGINRING%20GEOLOGY__2025.pdf"
+    },
+    {
+      "id": "101408-2025",
+      "code": "101408",
+      "subject": "4 SEM STRUCTURAL ANALYSIS",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101408__4%20SEM%20STRUCTURAL%20ANALYSIS__2025.pdf"
+    },
+    {
+      "id": "101504-2025",
+      "code": "101504",
+      "subject": "5 SEM HYDRAULIC ENGINRING",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__5%20SEM%20HYDRAULIC%20ENGINRING__2025.pdf"
+    },
+    {
       "id": "100401-2025",
       "code": "100401",
       "subject": "BIOLOGY FOR ENGINEERS",
@@ -21,6 +49,34 @@
       "subject": "DIGITAL ELECTRONICS",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100403__DIGITAL%20ELECTRONICS__2025.pdf"
+    },
+    {
+      "id": "101401-2024",
+      "code": "101401",
+      "subject": "4 SEM CIVIL ENGINRING SOCIETAL AND GLOBAL IMPACT",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101401__4%20SEM%20CIVIL%20ENGINRING%20SOCIETAL%20AND%20GLOBAL%20IMPACT__2024.pdf"
+    },
+    {
+      "id": "101403-2024",
+      "code": "101403",
+      "subject": "4 SEM ENGINRING GEOLOGY",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101403__4%20SEM%20ENGINRING%20GEOLOGY__2024.pdf"
+    },
+    {
+      "id": "101408-2024",
+      "code": "101408",
+      "subject": "4 SEM STRUCTURAL ANALYSIS",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101408__4%20SEM%20STRUCTURAL%20ANALYSIS__2024.pdf"
+    },
+    {
+      "id": "101507-2024",
+      "code": "101507",
+      "subject": "5 SEM TRANSPORTATION ENGINRING",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING__2024.pdf"
     },
     {
       "id": "105401-2024",
@@ -86,11 +142,18 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105403__OPERATING%20SYSTEM__2024.pdf"
     },
     {
-      "id": "101408-2024",
-      "code": "101408",
-      "subject": "Structure analysis",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101408__Structure%20analysis__2024.pdf"
+      "id": "101401-2023",
+      "code": "101401",
+      "subject": "4 SEM CIVIL ENGINRING SOCIETAL AND GLOBAL IMPACT",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101401__4%20SEM%20CIVIL%20ENGINRING%20SOCIETAL%20AND%20GLOBAL%20IMPACT__2023.pdf"
+    },
+    {
+      "id": "101507-2023",
+      "code": "101507",
+      "subject": "5 SEM TRANSPORTATION ENGINRING 1",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING%201__2023.pdf"
     },
     {
       "id": "105401-2023",
@@ -154,6 +217,13 @@
       "subject": "structural analysis",
       "year": 2023,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101408__structural%20analysis__2023.pdf"
+    },
+    {
+      "id": "101507-2022",
+      "code": "101507",
+      "subject": "5 SEM TRANSPORTATION ENGINRING",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING__2022.pdf"
     },
     {
       "id": "100401-2022",
