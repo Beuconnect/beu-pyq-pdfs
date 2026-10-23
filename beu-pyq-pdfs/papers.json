@@ -51,6 +51,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100403__DIGITAL%20ELECTRONICS__2025.pdf"
     },
     {
+      "id": "101507-2025",
+      "code": "101507",
+      "subject": "TRANSPORTATION ENGINEERING",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__TRANSPORTATION%20ENGINEERING__2025.pdf"
+    },
+    {
       "id": "101401-2024",
       "code": "101401",
       "subject": "4 SEM CIVIL ENGINRING SOCIETAL AND GLOBAL IMPACT",
