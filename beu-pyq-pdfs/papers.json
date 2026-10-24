@@ -219,13 +219,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING%201__2023.pdf"
     },
     {
-      "id": "105401-2023",
-      "code": "105401",
-      "subject": "CSE COMPUTER ORGANIZATION AND ARCHITECTURE",
-      "year": 2023,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__CSE%20COMPUTER%20ORGANIZATION%20AND%20ARCHITECTURE__2023.pdf"
-    },
-    {
       "id": "100304-2023",
       "code": "100304",
       "subject": "DATA STRUCTURE AND ALGORITHMS",
