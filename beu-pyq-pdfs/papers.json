@@ -289,13 +289,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105403__OPERATING%20SYSTEMS__2022.pdf"
     },
     {
-      "id": "100304-2021",
-      "code": "100304",
-      "subject": "DATA STRUCTURES AND ALGORITHMS",
-      "year": 2021,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100304__DATA%20STRUCTURES%20AND%20ALGORITHMS__2021.pdf"
-    },
-    {
       "id": "101503-2021",
       "code": "101503",
       "subject": "GEOTECHNICAL ENGINEERING 1 1",
