@@ -37,13 +37,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105605__WEB%20AND%20INTERNET%20TECHNOLOGY__2026.pdf"
     },
     {
-      "id": "101504-2025",
-      "code": "101504",
-      "subject": "5 SEM HYDRAULIC ENGINRING",
-      "year": 2025,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__5%20SEM%20HYDRAULIC%20ENGINRING__2025.pdf"
-    },
-    {
       "id": "105304-2025",
       "code": "105304",
       "subject": "DATA STRUCTURE AND ALGORITHMS",
