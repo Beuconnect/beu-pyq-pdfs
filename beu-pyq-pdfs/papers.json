@@ -1,4 +1,278 @@
 {
   "version": 1,
-  "papers": []
+  "papers": [
+    {
+      "id": "100101-2024",
+      "code": "100101",
+      "subject": "Basic Electrical Engineering",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100101__Basic%20Electrical%20Engineering__2024.pdf"
+    },
+    {
+      "id": "100106-2024",
+      "code": "100106",
+      "subject": "Basic Electrical Engineering",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100106__Basic%20Electrical%20Engineering__2024.pdf"
+    },
+    {
+      "id": "100106E-2024",
+      "code": "100106E",
+      "subject": "Communicative English",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100106E__Communicative%20English__2024.pdf"
+    },
+    {
+      "id": "100106ENG-2024",
+      "code": "100106ENG",
+      "subject": "Communicative English",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100106ENG__Communicative%20English__2024.pdf"
+    },
+    {
+      "id": "100103-2024",
+      "code": "100103",
+      "subject": "Engineering Chemistry",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100103__Engineering%20Chemistry__2024.pdf"
+    },
+    {
+      "id": "100103S-2024",
+      "code": "100103S",
+      "subject": "Engineering Chemistry",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100103S__Engineering%20Chemistry__2024.pdf"
+    },
+    {
+      "id": "100102-2024",
+      "code": "100102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100102__Engineering%20Mathematics%20-I__2024.pdf"
+    },
+    {
+      "id": "101102-2024",
+      "code": "101102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101102__Engineering%20Mathematics%20-I__2024.pdf"
+    },
+    {
+      "id": "105102-2024",
+      "code": "105102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105102__Engineering%20Mathematics%20-I__2024.pdf"
+    },
+    {
+      "id": "101101-2024",
+      "code": "101101",
+      "subject": "Engineering Mechanics",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101101__Engineering%20Mechanics__2024.pdf"
+    },
+    {
+      "id": "100110-2024",
+      "code": "100110",
+      "subject": "Engineering Physics",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100110__Engineering%20Physics__2024.pdf"
+    },
+    {
+      "id": "100113-2024",
+      "code": "100113",
+      "subject": "IT Workshop",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100113__IT%20Workshop__2024.pdf"
+    },
+    {
+      "id": "100104-2024",
+      "code": "100104",
+      "subject": "Programming for Problem Solving",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2024.pdf"
+    },
+    {
+      "id": "100111-2024",
+      "code": "100111",
+      "subject": "Programming for Problem Solving",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100111__Programming%20for%20Problem%20Solving__2024.pdf"
+    },
+    {
+      "id": "100105-2024",
+      "code": "100105",
+      "subject": "Workshop Practices",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100105__Workshop%20Practices__2024.pdf"
+    },
+    {
+      "id": "100112-2024",
+      "code": "100112",
+      "subject": "Workshop Practices",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100112__Workshop%20Practices__2024.pdf"
+    },
+    {
+      "id": "100101-2023",
+      "code": "100101",
+      "subject": "Basic Electrical Engineering",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100101__Basic%20Electrical%20Engineering__2023.pdf"
+    },
+    {
+      "id": "100106-2023",
+      "code": "100106",
+      "subject": "Communicative English",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100106__Communicative%20English__2023.pdf"
+    },
+    {
+      "id": "105102-2023",
+      "code": "105102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105102__Engineering%20Mathematics%20-I__2023.pdf"
+    },
+    {
+      "id": "101101-2023",
+      "code": "101101",
+      "subject": "Engineering Mechanics",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101101__Engineering%20Mechanics__2023.pdf"
+    },
+    {
+      "id": "102101-2023",
+      "code": "102101",
+      "subject": "Engineering Physics",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102101__Engineering%20Physics__2023.pdf"
+    },
+    {
+      "id": "100105-2023",
+      "code": "100105",
+      "subject": "Workshop Practices",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100105__Workshop%20Practices__2023.pdf"
+    },
+    {
+      "id": "100101-2022",
+      "code": "100101",
+      "subject": "Basic Electrical Engineering",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100101__Basic%20Electrical%20Engineering__2022.pdf"
+    },
+    {
+      "id": "100106-2022",
+      "code": "100106",
+      "subject": "Communicative English",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100106__Communicative%20English__2022.pdf"
+    },
+    {
+      "id": "105102-2022",
+      "code": "105102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105102__Engineering%20Mathematics%20-I__2022.pdf"
+    },
+    {
+      "id": "101101-2022",
+      "code": "101101",
+      "subject": "Engineering Mechanics",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101101__Engineering%20Mechanics__2022.pdf"
+    },
+    {
+      "id": "102101-2022",
+      "code": "102101",
+      "subject": "Engineering Physics",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102101__Engineering%20Physics__2022.pdf"
+    },
+    {
+      "id": "100104-2022",
+      "code": "100104",
+      "subject": "Programming for Problem Solving",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2022.pdf"
+    },
+    {
+      "id": "100105-2022",
+      "code": "100105",
+      "subject": "Workshop Practices",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100105__Workshop%20Practices__2022.pdf"
+    },
+    {
+      "id": "100101-2021",
+      "code": "100101",
+      "subject": "Basic Electrical Engineering",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100101__Basic%20Electrical%20Engineering__2021.pdf"
+    },
+    {
+      "id": "100106-2021",
+      "code": "100106",
+      "subject": "Communicative English",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100106__Communicative%20English__2021.pdf"
+    },
+    {
+      "id": "100103-2021",
+      "code": "100103",
+      "subject": "Engineering Chemistry",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100103__Engineering%20Chemistry__2021.pdf"
+    },
+    {
+      "id": "100102-2021",
+      "code": "100102",
+      "subject": "Engineering Graphics & Design",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100102__Engineering%20Graphics%20%26%20Design__2021.pdf"
+    },
+    {
+      "id": "102102-2021",
+      "code": "102102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102102__Engineering%20Mathematics%20-I__2021.pdf"
+    },
+    {
+      "id": "102102-2020",
+      "code": "102102",
+      "subject": "Engineering Mathematics -I",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102102__Engineering%20Mathematics%20-I__2020.pdf"
+    },
+    {
+      "id": "100104-2019",
+      "code": "100104",
+      "subject": "Programming for Problem Solving",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2019.pdf"
+    },
+    {
+      "id": "100105-2019",
+      "code": "100105",
+      "subject": "Workshop Practices",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100105__Workshop%20Practices__2019.pdf"
+    },
+    {
+      "id": "100104-2018",
+      "code": "100104",
+      "subject": "Programming for Problem Solving",
+      "year": 2018,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2018.pdf"
+    },
+    {
+      "id": "021101-2015",
+      "code": "021101",
+      "subject": "Elements of Mechanical Engineering",
+      "year": 2015,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/021101__Elements%20of%20Mechanical%20Engineering__2015.pdf"
+    }
+  ]
 }
