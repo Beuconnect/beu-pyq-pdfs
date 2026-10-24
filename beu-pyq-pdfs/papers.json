@@ -58,13 +58,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__TRANSPORTATION%20ENGINEERING__2025.pdf"
     },
     {
-      "id": "101507-2024",
-      "code": "101507",
-      "subject": "5 SEM TRANSPORTATION ENGINRING",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING__2024.pdf"
-    },
-    {
       "id": "105402-2024",
       "code": "105402",
       "subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
@@ -98,13 +91,6 @@
       "subject": "OPERATING SYSTEMS",
       "year": 2023,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105403__OPERATING%20SYSTEMS__2023.pdf"
-    },
-    {
-      "id": "101507-2022",
-      "code": "101507",
-      "subject": "5 SEM TRANSPORTATION ENGINRING",
-      "year": 2022,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING__2022.pdf"
     },
     {
       "id": "105401-2022",
