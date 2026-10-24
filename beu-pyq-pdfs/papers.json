@@ -1045,6 +1045,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100101__Basic%20Electrical%20Engineering__2022.pdf"
     },
     {
+      "id": "100813-2022",
+      "code": "100813",
+      "subject": "BIG DATA ANALYTICS",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100813__BIG%20DATA%20ANALYTICS__2022.pdf"
+    },
+    {
       "id": "100708-2022",
       "code": "100708",
       "subject": "Biology for Engineers",
