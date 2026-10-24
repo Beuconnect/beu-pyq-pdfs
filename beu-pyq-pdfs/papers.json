@@ -163,13 +163,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING__2024.pdf"
     },
     {
-      "id": "100302-2024",
-      "code": "100302",
-      "subject": "ANALOG ELECTRONIC CIRCUITS",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100302__ANALOG%20ELECTRONIC%20CIRCUITS__2024.pdf"
-    },
-    {
       "id": "105401-2024",
       "code": "105401",
       "subject": "CSE COMPUTER ORGANIZATION AND ARCHITECTURE",
