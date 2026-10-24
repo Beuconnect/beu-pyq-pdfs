@@ -1,12 +1,4 @@
 {
   "version": 1,
-  "papers": [
-    {
-      "id": "105603-2026",
-      "code": "105603",
-      "subject": "AD HOC AND SENSOR NETWORKS",
-      "year": 2026,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105603__AD%20HOC%20AND%20SENSOR%20NETWORKS__2026.pdf"
-    }
-  ]
+  "papers": []
 }
