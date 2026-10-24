@@ -44,13 +44,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105502__DATABASE%20MANAGEMENT%20SYSTEMS__2025.pdf"
     },
     {
-      "id": "105402-2024",
-      "code": "105402",
-      "subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105402__DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS__2024.pdf"
-    },
-    {
       "id": "105503-2024",
       "code": "105503",
       "subject": "FORMAL LANGUAGE AND AUTOMATA THEORY",
