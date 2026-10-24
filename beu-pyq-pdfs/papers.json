@@ -254,13 +254,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__CSE%20COMPUTER%20ORGANIZATION%20CSE%20AND%20ARCHITECTURE__2022.pdf"
     },
     {
-      "id": "100304-2022",
-      "code": "100304",
-      "subject": "DATA STRUCTURE AND ALGORITHMS",
-      "year": 2022,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100304__DATA%20STRUCTURE%20AND%20ALGORITHMS__2022.pdf"
-    },
-    {
       "id": "105402-2022",
       "code": "105402",
       "subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
