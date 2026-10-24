@@ -163,13 +163,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__HYDRAULIC%20ENGINEERING%202__2024.pdf"
     },
     {
-      "id": "100311-2024",
-      "code": "100311",
-      "subject": "MATHEMATICS-III (DIFFERENTIAL CALCULUS)",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100311__MATHEMATICS-III%20%28DIFFERENTIAL%20CALCULUS%29__2024.pdf"
-    },
-    {
       "id": "100313-2024",
       "code": "100313",
       "subject": "OBJECT ORIENTED PROGRAMMING USING C++",
