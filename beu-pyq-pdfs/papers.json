@@ -93,13 +93,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__5%20SEM%20HYDRAULIC%20ENGINRING__2025.pdf"
     },
     {
-      "id": "100401-2025",
-      "code": "100401",
-      "subject": "BIOLOGY FOR ENGINEERS",
-      "year": 2025,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100401__BIOLOGY%20FOR%20ENGINEERS__2025.pdf"
-    },
-    {
       "id": "105304-2025",
       "code": "105304",
       "subject": "DATA STRUCTURE AND ALGORITHMS",
