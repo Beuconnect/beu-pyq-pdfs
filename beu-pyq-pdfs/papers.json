@@ -128,13 +128,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__5%20SEM%20TRANSPORTATION%20ENGINRING__2024.pdf"
     },
     {
-      "id": "100304-2024",
-      "code": "100304",
-      "subject": "DATA STRUCTURES AND ALGORITHMS",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100304__DATA%20STRUCTURES%20AND%20ALGORITHMS__2024.pdf"
-    },
-    {
       "id": "105402-2024",
       "code": "105402",
       "subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
