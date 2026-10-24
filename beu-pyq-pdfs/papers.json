@@ -163,13 +163,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__HYDRAULIC%20ENGINEERING%202__2024.pdf"
     },
     {
-      "id": "100313-2024",
-      "code": "100313",
-      "subject": "OBJECT ORIENTED PROGRAMMING USING C++",
-      "year": 2024,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100313__OBJECT%20ORIENTED%20PROGRAMMING%20USING%20C%2B%2B__2024.pdf"
-    },
-    {
       "id": "100314-2024",
       "code": "100314",
       "subject": "TECHNICAL WRITING",
