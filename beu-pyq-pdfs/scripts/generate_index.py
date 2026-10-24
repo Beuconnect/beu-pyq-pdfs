@@ -94,12 +94,36 @@ def main():
             + "\n- ".join(invalid_files)
         )
 
-    ids = [paper["id"] for paper in papers]
+    # Find duplicate paper IDs and show conflicting PDF URLs
+    from collections import defaultdict
 
-    if len(ids) != len(set(ids)):
+    seen = defaultdict(list)
+
+    for paper in papers:
+        seen[paper["id"]].append(paper)
+
+    duplicates = {
+        paper_id: items
+        for paper_id, items in seen.items()
+        if len(items) > 1
+    }
+
+    if duplicates:
+        print("\n========== DUPLICATE PDFs FOUND ==========")
+
+        for paper_id, items in duplicates.items():
+            print(f"\nDuplicate ID: {paper_id}")
+
+            for item in items:
+                print(f'  Code: {item["code"]}')
+                print(f'  Subject: {item["subject"]}')
+                print(f'  Year: {item["year"]}')
+                print(f'  PDF URL: {item["pdfUrl"]}')
+                print("  -------------------------")
+
         raise ValueError(
-            "Duplicate paper IDs found. "
-            "Each code/year combination must be unique."
+            f"Found {len(duplicates)} duplicate paper IDs. "
+            "See the PDF details above."
         )
 
     papers.sort(
