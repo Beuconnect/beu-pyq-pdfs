@@ -37,13 +37,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105605__WEB%20AND%20INTERNET%20TECHNOLOGY__2026.pdf"
     },
     {
-      "id": "105304-2025",
-      "code": "105304",
-      "subject": "DATA STRUCTURE AND ALGORITHMS",
-      "year": 2025,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105304__DATA%20STRUCTURE%20AND%20ALGORITHMS__2025.pdf"
-    },
-    {
       "id": "105502-2025",
       "code": "105502",
       "subject": "DATABASE MANAGEMENT SYSTEMS",
