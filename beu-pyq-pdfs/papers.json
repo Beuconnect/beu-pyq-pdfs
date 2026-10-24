@@ -30,13 +30,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105605__WEB%20AND%20INTERNET%20TECHNOLOGY__2026.pdf"
     },
     {
-      "id": "105502-2025",
-      "code": "105502",
-      "subject": "DATABASE MANAGEMENT SYSTEMS",
-      "year": 2025,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105502__DATABASE%20MANAGEMENT%20SYSTEMS__2025.pdf"
-    },
-    {
       "id": "105503-2024",
       "code": "105503",
       "subject": "FORMAL LANGUAGE AND AUTOMATA THEORY",
