@@ -44,13 +44,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105502__DATABASE%20MANAGEMENT%20SYSTEMS__2025.pdf"
     },
     {
-      "id": "101507-2025",
-      "code": "101507",
-      "subject": "TRANSPORTATION ENGINEERING",
-      "year": 2025,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101507__TRANSPORTATION%20ENGINEERING__2025.pdf"
-    },
-    {
       "id": "105402-2024",
       "code": "105402",
       "subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
