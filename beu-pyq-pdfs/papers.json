@@ -72,6 +72,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100206__Workshop%20Practices__2026.pdf"
     },
     {
+      "id": "105501-2025",
+      "code": "105501",
+      "subject": "Artificial Intelligence",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105501__Artificial%20Intelligence__2025.pdf"
+    },
+    {
       "id": "100209-2025",
       "code": "100209",
       "subject": "Basic Electronics",
@@ -198,6 +205,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105403__Operating%20System__2025.pdf"
     },
     {
+      "id": "100508-2025",
+      "code": "100508",
+      "subject": "Professional Skill Development",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100508__Professional%20Skill%20Development__2025.pdf"
+    },
+    {
       "id": "100203-2025",
       "code": "100203",
       "subject": "Programming for Problem Solving",
@@ -217,6 +231,13 @@
       "subject": "Python Programming",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100218__Python%20Programming__2025.pdf"
+    },
+    {
+      "id": "105504-2025",
+      "code": "105504",
+      "subject": "Software Engineering",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105504__Software%20Engineering__2025.pdf"
     },
     {
       "id": "100205-2025",
@@ -387,6 +408,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100407__Human%20Resource%20Development%20and%20Organizational%20Behavior__2024.pdf"
     },
     {
+      "id": "101504-2024",
+      "code": "101504",
+      "subject": "Hydraulic Engineering",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__Hydraulic%20Engineering__2024.pdf"
+    },
+    {
       "id": "100113-2024",
       "code": "100113",
       "subject": "IT Workshop",
@@ -457,6 +485,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104402__Analog%20Communication__2023.pdf"
     },
     {
+      "id": "101501-2023",
+      "code": "101501",
+      "subject": "Analysis and Design of Concrete Structure",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101501__Analysis%20and%20Design%20of%20Concrete%20Structure__2023.pdf"
+    },
+    {
       "id": "100101-2023",
       "code": "100101",
       "subject": "Basic Electrical Engineering",
@@ -520,6 +555,20 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100407__Human%20Resource%20Development%20and%20Organizational%20Behavior__2023.pdf"
     },
     {
+      "id": "101504-2023",
+      "code": "101504",
+      "subject": "Hydraulic Engineering",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__Hydraulic%20Engineering__2023.pdf"
+    },
+    {
+      "id": "101505-2023",
+      "code": "101505",
+      "subject": "Hydrology & Water Resources Engineering",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101505__Hydrology%20%26%20Water%20Resources%20Engineering__2023.pdf"
+    },
+    {
       "id": "101407-2023",
       "code": "101407",
       "subject": "Mechanical Engineering",
@@ -541,11 +590,25 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100105__Workshop%20Practices__2023.pdf"
     },
     {
+      "id": "101501-2022",
+      "code": "101501",
+      "subject": "Analysis and Design of Concrete Structure",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101501__Analysis%20and%20Design%20of%20Concrete%20Structure__2022.pdf"
+    },
+    {
       "id": "102401-2022",
       "code": "102401",
       "subject": "Applied Thermodynamics",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102401__Applied%20Thermodynamics__2022.pdf"
+    },
+    {
+      "id": "105501-2022",
+      "code": "105501",
+      "subject": "Artificial Intelligence",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105501__Artificial%20Intelligence__2022.pdf"
     },
     {
       "id": "100101-2022",
@@ -581,6 +644,13 @@
       "subject": "Computer Organization & Architecture",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2022.pdf"
+    },
+    {
+      "id": "105502-2022",
+      "code": "105502",
+      "subject": "Database Management System",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105502__Database%20Management%20System__2022.pdf"
     },
     {
       "id": "101402-2022",
@@ -646,6 +716,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100407__Human%20Resource%20Development%20and%20Organizational%20Behavior__2022.pdf"
     },
     {
+      "id": "101504-2022",
+      "code": "101504",
+      "subject": "Hydraulic Engineering",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__Hydraulic%20Engineering__2022.pdf"
+    },
+    {
       "id": "101406-2022",
       "code": "101406",
       "subject": "Materials, Testing & Evaluation",
@@ -681,11 +758,32 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2022.pdf"
     },
     {
+      "id": "105504-2022",
+      "code": "105504",
+      "subject": "Software Engineering",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105504__Software%20Engineering__2022.pdf"
+    },
+    {
       "id": "100105-2022",
       "code": "100105",
       "subject": "Workshop Practices",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100105__Workshop%20Practices__2022.pdf"
+    },
+    {
+      "id": "110501-2021",
+      "code": "110501",
+      "subject": "Analog and Digital Communication System",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110501__Analog%20and%20Digital%20Communication%20System__2021.pdf"
+    },
+    {
+      "id": "101501-2021",
+      "code": "101501",
+      "subject": "Analysis and Design of Concrete Structure",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101501__Analysis%20and%20Design%20of%20Concrete%20Structure__2021.pdf"
     },
     {
       "id": "100101-2021",
@@ -744,11 +842,88 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102102__Engineering%20Mathematics%20-I__2021.pdf"
     },
     {
+      "id": "101502-2021",
+      "code": "101502",
+      "subject": "Environmental Engineering-1",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101502__Environmental%20Engineering-1__2021.pdf"
+    },
+    {
+      "id": "105503-2021",
+      "code": "105503",
+      "subject": "Formal language & automata theory",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105503__Formal%20language%20%26%20automata%20theory__2021.pdf"
+    },
+    {
+      "id": "101503-2021",
+      "code": "101503",
+      "subject": "Geotechnical Engineering - I",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101503__Geotechnical%20Engineering%20-%20I__2021.pdf"
+    },
+    {
+      "id": "101504-2021",
+      "code": "101504",
+      "subject": "Hydraulic Engineering",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__Hydraulic%20Engineering__2021.pdf"
+    },
+    {
+      "id": "101505-2021",
+      "code": "101505",
+      "subject": "Hydrology & Water Resources Engineering",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101505__Hydrology%20%26%20Water%20Resources%20Engineering__2021.pdf"
+    },
+    {
+      "id": "105504-2021",
+      "code": "105504",
+      "subject": "Software Engineering",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105504__Software%20Engineering__2021.pdf"
+    },
+    {
       "id": "100205-2021",
       "code": "100205",
       "subject": "Workshop Practices",
       "year": 2021,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100205__Workshop%20Practices__2021.pdf"
+    },
+    {
+      "id": "110501-2020",
+      "code": "110501",
+      "subject": "Analog and Digital Communication System",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110501__Analog%20and%20Digital%20Communication%20System__2020.pdf"
+    },
+    {
+      "id": "105501-2020",
+      "code": "105501",
+      "subject": "Artificial Intelligence",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105501__Artificial%20Intelligence__2020.pdf"
+    },
+    {
+      "id": "104501-2020",
+      "code": "104501",
+      "subject": "COMPUTER NETWORKS & SECURITY",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104501__COMPUTER%20NETWORKS%20%26%20SECURITY__2020.pdf"
+    },
+    {
+      "id": "105502-2020",
+      "code": "105502",
+      "subject": "Database Management System",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105502__Database%20Management%20System__2020.pdf"
+    },
+    {
+      "id": "051506-2020",
+      "code": "051506",
+      "subject": "Design and Analysis of Algorithms",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051506__Design%20and%20Analysis%20of%20Algorithms__2020.pdf"
     },
     {
       "id": "100103-2020",
@@ -763,6 +938,104 @@
       "subject": "Engineering Mathematics -I",
       "year": 2020,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102102__Engineering%20Mathematics%20-I__2020.pdf"
+    },
+    {
+      "id": "101502-2020",
+      "code": "101502",
+      "subject": "Environmental Engineering-1",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101502__Environmental%20Engineering-1__2020.pdf"
+    },
+    {
+      "id": "021510-2020",
+      "code": "021510",
+      "subject": "Fluid Machinery",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/021510__Fluid%20Machinery__2020.pdf"
+    },
+    {
+      "id": "102501-2020",
+      "code": "102501",
+      "subject": "Fluid Machinery",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102501__Fluid%20Machinery__2020.pdf"
+    },
+    {
+      "id": "105503-2020",
+      "code": "105503",
+      "subject": "Formal language & automata theory",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105503__Formal%20language%20%26%20automata%20theory__2020.pdf"
+    },
+    {
+      "id": "101503-2020",
+      "code": "101503",
+      "subject": "Geotechnical Engineering - I",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101503__Geotechnical%20Engineering%20-%20I__2020.pdf"
+    },
+    {
+      "id": "101504-2020",
+      "code": "101504",
+      "subject": "Hydraulic Engineering",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__Hydraulic%20Engineering__2020.pdf"
+    },
+    {
+      "id": "101505-2020",
+      "code": "101505",
+      "subject": "Hydrology & Water Resources Engineering",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101505__Hydrology%20%26%20Water%20Resources%20Engineering__2020.pdf"
+    },
+    {
+      "id": "104504-2020",
+      "code": "104504",
+      "subject": "Linear Integrated Circuits and Applications",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104504__Linear%20Integrated%20Circuits%20and%20Applications__2020.pdf"
+    },
+    {
+      "id": "1045-2020",
+      "code": "1045",
+      "subject": "Microprocessor and Microcontroller",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/1045__Microprocessor%20and%20Microcontroller__2020.pdf"
+    },
+    {
+      "id": "031508-2020",
+      "code": "031508",
+      "subject": "POWER SYSTEM-II",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031508__POWER%20SYSTEM-II__2020.pdf"
+    },
+    {
+      "id": "100508-2020",
+      "code": "100508",
+      "subject": "Professional Skill Development",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100508__Professional%20Skill%20Development__2020.pdf"
+    },
+    {
+      "id": "105504-2020",
+      "code": "105504",
+      "subject": "Software Engineering",
+      "year": 2020,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105504__Software%20Engineering__2020.pdf"
+    },
+    {
+      "id": "051516-2019",
+      "code": "051516",
+      "subject": "Compiler Design",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051516__Compiler%20Design__2019.pdf"
+    },
+    {
+      "id": "051513-2019",
+      "code": "051513",
+      "subject": "Computer Networks",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051513__Computer%20Networks__2019.pdf"
     },
     {
       "id": "051402-2019",
@@ -786,6 +1059,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031403__Electrical%20Machine%20-%20II__2019.pdf"
     },
     {
+      "id": "031506-2019",
+      "code": "031506",
+      "subject": "Electromagnetic Field Theory",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031506__Electromagnetic%20Field%20Theory__2019.pdf"
+    },
+    {
       "id": "102202-2019",
       "code": "102202",
       "subject": "Engineering Mathematics - II",
@@ -793,11 +1073,39 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102202__Engineering%20Mathematics%20-%20II__2019.pdf"
     },
     {
+      "id": "021510-2019",
+      "code": "021510",
+      "subject": "Fluid Machinery",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/021510__Fluid%20Machinery__2019.pdf"
+    },
+    {
+      "id": "011512-2019",
+      "code": "011512",
+      "subject": "Hydrology & Water Resources Engineering",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/011512__Hydrology%20%26%20Water%20Resources%20Engineering__2019.pdf"
+    },
+    {
+      "id": "031511-2019",
+      "code": "031511",
+      "subject": "Microprocessors",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031511__Microprocessors__2019.pdf"
+    },
+    {
       "id": "031404-2019",
       "code": "031404",
       "subject": "POWER SYSTEM-I",
       "year": 2019,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031404__POWER%20SYSTEM-I__2019.pdf"
+    },
+    {
+      "id": "031508-2019",
+      "code": "031508",
+      "subject": "POWER SYSTEM-II",
+      "year": 2019,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031508__POWER%20SYSTEM-II__2019.pdf"
     },
     {
       "id": "100104-2019",
@@ -828,6 +1136,20 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100205__Workshop%20Practices__2019.pdf"
     },
     {
+      "id": "051513-2018",
+      "code": "051513",
+      "subject": "Computer Networks",
+      "year": 2018,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051513__Computer%20Networks__2018.pdf"
+    },
+    {
+      "id": "051506-2018",
+      "code": "051506",
+      "subject": "Design and Analysis of Algorithms",
+      "year": 2018,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051506__Design%20and%20Analysis%20of%20Algorithms__2018.pdf"
+    },
+    {
       "id": "211405-2018",
       "code": "211405",
       "subject": "Discrete Mathematics",
@@ -840,6 +1162,20 @@
       "subject": "Electrical Machine - II",
       "year": 2018,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031403__Electrical%20Machine%20-%20II__2018.pdf"
+    },
+    {
+      "id": "031506-2018",
+      "code": "031506",
+      "subject": "Electromagnetic Field Theory",
+      "year": 2018,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031506__Electromagnetic%20Field%20Theory__2018.pdf"
+    },
+    {
+      "id": "021510-2018",
+      "code": "021510",
+      "subject": "Fluid Machinery",
+      "year": 2018,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/021510__Fluid%20Machinery__2018.pdf"
     },
     {
       "id": "031404-2018",
@@ -856,11 +1192,32 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2018.pdf"
     },
     {
+      "id": "051513-2017",
+      "code": "051513",
+      "subject": "Computer Networks",
+      "year": 2017,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051513__Computer%20Networks__2017.pdf"
+    },
+    {
       "id": "051402-2017",
       "code": "051402",
       "subject": "Computer Organization & Architecture",
       "year": 2017,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051402__Computer%20Organization%20%26%20Architecture__2017.pdf"
+    },
+    {
+      "id": "051509-2017",
+      "code": "051509",
+      "subject": "Database Management System",
+      "year": 2017,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051509__Database%20Management%20System__2017.pdf"
+    },
+    {
+      "id": "021513-2017",
+      "code": "021513",
+      "subject": "Dynamics of Machinery",
+      "year": 2017,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/021513__Dynamics%20of%20Machinery__2017.pdf"
     },
     {
       "id": "031403-2017",
@@ -870,6 +1227,27 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031403__Electrical%20Machine%20-%20II__2017.pdf"
     },
     {
+      "id": "051529-2017",
+      "code": "051529",
+      "subject": "INTRODUCTION TO JAVA PROGRAMMING LANGUAGE",
+      "year": 2017,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051529__INTRODUCTION%20TO%20JAVA%20PROGRAMMING%20LANGUAGE__2017.pdf"
+    },
+    {
+      "id": "031511-2017",
+      "code": "031511",
+      "subject": "Microprocessors",
+      "year": 2017,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031511__Microprocessors__2017.pdf"
+    },
+    {
+      "id": "031508-2017",
+      "code": "031508",
+      "subject": "POWER SYSTEM-II",
+      "year": 2017,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031508__POWER%20SYSTEM-II__2017.pdf"
+    },
+    {
       "id": "021201-2016",
       "code": "021201",
       "subject": "Elements of Mechanical Engineering",
@@ -877,11 +1255,25 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/021201__Elements%20of%20Mechanical%20Engineering__2016.pdf"
     },
     {
+      "id": "051529-2016",
+      "code": "051529",
+      "subject": "INTRODUCTION TO JAVA PROGRAMMING LANGUAGE",
+      "year": 2016,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051529__INTRODUCTION%20TO%20JAVA%20PROGRAMMING%20LANGUAGE__2016.pdf"
+    },
+    {
       "id": "031404-2016",
       "code": "031404",
       "subject": "POWER SYSTEM-I",
       "year": 2016,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/031404__POWER%20SYSTEM-I__2016.pdf"
+    },
+    {
+      "id": "051513-2015",
+      "code": "051513",
+      "subject": "Computer Networks",
+      "year": 2015,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/051513__Computer%20Networks__2015.pdf"
     },
     {
       "id": "021101-2015",
