@@ -156,6 +156,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105501__Artificial%20Intelligence__2025.pdf"
     },
     {
+      "id": "102605-2025",
+      "code": "102605",
+      "subject": "Automation in Manufacturing",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102605__Automation%20in%20Manufacturing__2025.pdf"
+    },
+    {
       "id": "100209-2025",
       "code": "100209",
       "subject": "Basic Electronics",
