@@ -142,6 +142,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100206__Workshop%20Practices__2026.pdf"
     },
     {
+      "id": "110501-2025",
+      "code": "110501",
+      "subject": "Analog and Digital Communication System",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110501__Analog%20and%20Digital%20Communication%20System__2025.pdf"
+    },
+    {
       "id": "105501-2025",
       "code": "105501",
       "subject": "Artificial Intelligence",
@@ -490,6 +497,13 @@
       "subject": "Workshop Practices",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100211__Workshop%20Practices__2025.pdf"
+    },
+    {
+      "id": "110501-2024",
+      "code": "110501",
+      "subject": "Analog and Digital Communication System",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110501__Analog%20and%20Digital%20Communication%20System__2024.pdf"
     },
     {
       "id": "104401-2024",
