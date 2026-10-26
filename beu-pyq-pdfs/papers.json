@@ -191,6 +191,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100602__Computer%20Networks__2025.pdf"
     },
     {
+      "id": "104501-2025",
+      "code": "104501",
+      "subject": "Computer Networks and Security",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104501__Computer%20Networks%20and%20Security__2025.pdf"
+    },
+    {
       "id": "105401-2025",
       "code": "105401",
       "subject": "Computer Organization & Architecture",
@@ -217,6 +224,13 @@
       "subject": "Digital Electronics",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100403__Digital%20Electronics__2025.pdf"
+    },
+    {
+      "id": "104502-2025",
+      "code": "104502",
+      "subject": "Digital Signal Processing",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104502__Digital%20Signal%20Processing__2025.pdf"
     },
     {
       "id": "105304-2025",
@@ -338,6 +352,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100219__Introduction%20to%20Web%20Design__2025.pdf"
     },
     {
+      "id": "104504-2025",
+      "code": "104504",
+      "subject": "Linear Integrated Circuits and Applications",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104504__Linear%20Integrated%20Circuits%20and%20Applications__2025.pdf"
+    },
+    {
       "id": "105602-2025",
       "code": "105602",
       "subject": "Machine Learning",
@@ -350,6 +371,20 @@
       "subject": "Materials, Testing & Evaluation",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101306__Materials%2C%20Testing%20%26%20Evaluation__2025.pdf"
+    },
+    {
+      "id": "100504-2025",
+      "code": "100504",
+      "subject": "Microprocessor",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100504__Microprocessor__2025.pdf"
+    },
+    {
+      "id": "104505-2025",
+      "code": "104505",
+      "subject": "Microprocessors and Microcontrollers",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104505__Microprocessors%20and%20Microcontrollers__2025.pdf"
     },
     {
       "id": "105303-2025",
@@ -1388,6 +1423,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100206__Communicative%20English__2021.pdf"
     },
     {
+      "id": "104502-2021",
+      "code": "104502",
+      "subject": "Digital Signal Processing",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104502__Digital%20Signal%20Processing__2021.pdf"
+    },
+    {
       "id": "100103-2021",
       "code": "100103",
       "subject": "Engineering Chemistry",
@@ -1456,6 +1498,13 @@
       "subject": "Hydrology & Water Resources Engineering",
       "year": 2021,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101505__Hydrology%20%26%20Water%20Resources%20Engineering__2021.pdf"
+    },
+    {
+      "id": "104504-2021",
+      "code": "104504",
+      "subject": "Linear Integrated Circuits and Applications",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104504__Linear%20Integrated%20Circuits%20and%20Applications__2021.pdf"
     },
     {
       "id": "105504-2021",
