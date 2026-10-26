@@ -163,6 +163,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100708__Biology%20for%20Engineers__2025.pdf"
     },
     {
+      "id": "101401-2025",
+      "code": "101401",
+      "subject": "Civil Engineering Societal and Global Impact",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101401__Civil%20Engineering%20Societal%20and%20Global%20Impact__2025.pdf"
+    },
+    {
       "id": "100206OLD-2025",
       "code": "100206OLD",
       "subject": "Communicative English",
