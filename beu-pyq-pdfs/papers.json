@@ -1724,13 +1724,6 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102304__Thermodynamics__2020.pdf"
     },
     {
-      "id": "ME-2020",
-      "code": "ME",
-      "subject": "Thermodynamics",
-      "year": 2020,
-      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/ME__Thermodynamics__2020.pdf"
-    },
-    {
       "id": "101507-2020",
       "code": "101507",
       "subject": "Transportation Engineering",
