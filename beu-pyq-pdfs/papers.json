@@ -1612,6 +1612,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104504__Linear%20Integrated%20Circuits%20and%20Applications__2021.pdf"
     },
     {
+      "id": "061810-2021",
+      "code": "061810",
+      "subject": "Multimedia Technology and Application",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/061810__Multimedia%20Technology%20and%20Application__2021.pdf"
+    },
+    {
       "id": "105504-2021",
       "code": "105504",
       "subject": "Software Engineering",
