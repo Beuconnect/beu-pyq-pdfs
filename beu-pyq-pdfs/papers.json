@@ -1227,6 +1227,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2022.pdf"
     },
     {
+      "id": "105801-2022",
+      "code": "105801",
+      "subject": "Data Mining",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105801__Data%20Mining__2022.pdf"
+    },
+    {
       "id": "100304-2022",
       "code": "100304",
       "subject": "Data Structure and Algorithms",
