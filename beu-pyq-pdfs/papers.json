@@ -317,6 +317,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100204EME__Elements%20of%20Mechanical%20Engineering__2025.pdf"
     },
     {
+      "id": "105816-2025",
+      "code": "105816",
+      "subject": "Embedded Systems",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105816__Embedded%20Systems__2025.pdf"
+    },
+    {
       "id": "100203CHEM-2025",
       "code": "100203CHEM",
       "subject": "Engineering Chemistry",
