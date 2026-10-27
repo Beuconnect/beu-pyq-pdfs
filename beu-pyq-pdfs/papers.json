@@ -23,6 +23,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100209__Basic%20Electronics__2026.pdf"
     },
     {
+      "id": "100817-2026",
+      "code": "100817",
+      "subject": "Cloud Computing",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100817__Cloud%20Computing__2026.pdf"
+    },
+    {
       "id": "100216-2026",
       "code": "100216",
       "subject": "Communicative English",
@@ -189,6 +196,13 @@
       "subject": "Civil Engineering Societal and Global Impact",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101401__Civil%20Engineering%20Societal%20and%20Global%20Impact__2025.pdf"
+    },
+    {
+      "id": "100817-2025",
+      "code": "100817",
+      "subject": "Cloud Computing",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100817__Cloud%20Computing__2025.pdf"
     },
     {
       "id": "100206OLD-2025",
