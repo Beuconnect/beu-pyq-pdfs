@@ -23,6 +23,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100209__Basic%20Electronics__2026.pdf"
     },
     {
+      "id": "100816-2026",
+      "code": "100816",
+      "subject": "Bitcoin and Crypto Currencies",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100816__Bitcoin%20and%20Crypto%20Currencies__2026.pdf"
+    },
+    {
       "id": "100817-2026",
       "code": "100817",
       "subject": "Cloud Computing",
@@ -1661,11 +1668,25 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/061810__Multimedia%20Technology%20and%20Application__2021.pdf"
     },
     {
+      "id": "241802-2021",
+      "code": "241802",
+      "subject": "Personnel Management and Industrial Relations",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/241802__Personnel%20Management%20and%20Industrial%20Relations__2021.pdf"
+    },
+    {
       "id": "105504-2021",
       "code": "105504",
       "subject": "Software Engineering",
       "year": 2021,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105504__Software%20Engineering__2021.pdf"
+    },
+    {
+      "id": "241807-2021",
+      "code": "241807",
+      "subject": "Sustainable Development",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/241807__Sustainable%20Development__2021.pdf"
     },
     {
       "id": "102304-2021",
