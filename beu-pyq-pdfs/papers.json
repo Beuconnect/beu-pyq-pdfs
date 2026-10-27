@@ -1227,6 +1227,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2022.pdf"
     },
     {
+      "id": "105713-2022",
+      "code": "105713",
+      "subject": "Cyber Security",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105713__Cyber%20Security__2022.pdf"
+    },
+    {
       "id": "105801-2022",
       "code": "105801",
       "subject": "Data Mining",
@@ -1274,6 +1281,13 @@
       "subject": "Electrical Machine - II",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103402__Electrical%20Machine%20-%20II__2022.pdf"
+    },
+    {
+      "id": "100704-2022",
+      "code": "100704",
+      "subject": "Electromagnetic Waves",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100704__Electromagnetic%20Waves__2022.pdf"
     },
     {
       "id": "100203-2022",
@@ -1372,6 +1386,13 @@
       "subject": "Hydrology & Water Resources Engineering",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101505__Hydrology%20%26%20Water%20Resources%20Engineering__2022.pdf"
+    },
+    {
+      "id": "105705-2022",
+      "code": "105705",
+      "subject": "Internet of Things",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105705__Internet%20of%20Things__2022.pdf"
     },
     {
       "id": "105602-2022",
@@ -1493,6 +1514,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101501__Analysis%20and%20Design%20of%20Concrete%20Structure__2021.pdf"
     },
     {
+      "id": "102705-2021",
+      "code": "102705",
+      "subject": "Automobile Engineering",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102705__Automobile%20Engineering__2021.pdf"
+    },
+    {
       "id": "100101-2021",
       "code": "100101",
       "subject": "Basic Electrical Engineering",
@@ -1526,6 +1554,13 @@
       "subject": "Communicative English",
       "year": 2021,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100206__Communicative%20English__2021.pdf"
+    },
+    {
+      "id": "100715-2021",
+      "code": "100715",
+      "subject": "Cyber Law and Ethics",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100715__Cyber%20Law%20and%20Ethics__2021.pdf"
     },
     {
       "id": "104502-2021",
@@ -1589,6 +1624,13 @@
       "subject": "Geotechnical Engineering - I",
       "year": 2021,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101503__Geotechnical%20Engineering%20-%20I__2021.pdf"
+    },
+    {
+      "id": "105710-2021",
+      "code": "105710",
+      "subject": "History of Science and Technology in India",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105710__History%20of%20Science%20and%20Technology%20in%20India__2021.pdf"
     },
     {
       "id": "101504-2021",
