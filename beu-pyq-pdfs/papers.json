@@ -275,6 +275,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105502__Database%20Management%20System__2025.pdf"
     },
     {
+      "id": "155701-2025",
+      "code": "155701",
+      "subject": "Deep Learning",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/155701__Deep%20Learning__2025.pdf"
+    },
+    {
       "id": "100403-2025",
       "code": "100403",
       "subject": "Digital Electronics",
@@ -1148,6 +1155,13 @@
       "subject": "Artificial Intelligence",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105501__Artificial%20Intelligence__2022.pdf"
+    },
+    {
+      "id": "110729-2022",
+      "code": "110729",
+      "subject": "Artificial Neural Network",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110729__Artificial%20Neural%20Network__2022.pdf"
     },
     {
       "id": "100101-2022",
