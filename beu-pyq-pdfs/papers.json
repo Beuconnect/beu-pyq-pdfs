@@ -149,6 +149,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110501__Analog%20and%20Digital%20Communication%20System__2025.pdf"
     },
     {
+      "id": "155703-2025",
+      "code": "155703",
+      "subject": "Application of IoT in Robotics",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/155703__Application%20of%20IoT%20in%20Robotics__2025.pdf"
+    },
+    {
       "id": "105501-2025",
       "code": "105501",
       "subject": "Artificial Intelligence",
@@ -224,6 +231,13 @@
       "subject": "Computer Organization & Architecture",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2025.pdf"
+    },
+    {
+      "id": "105701-2025",
+      "code": "105701",
+      "subject": "Data Science",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105701__Data%20Science__2025.pdf"
     },
     {
       "id": "105302-2025",
@@ -455,6 +469,20 @@
       "subject": "Python Programming",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100218__Python%20Programming__2025.pdf"
+    },
+    {
+      "id": "100713-2025",
+      "code": "100713",
+      "subject": "Soft Skills and Interpersonal Communication",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100713__Soft%20Skills%20and%20Interpersonal%20Communication__2025.pdf"
+    },
+    {
+      "id": "100728-2025",
+      "code": "100728",
+      "subject": "Soft Skills and Interpersonal Communication",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100728__Soft%20Skills%20and%20Interpersonal%20Communication__2025.pdf"
     },
     {
       "id": "105504-2025",
@@ -1379,6 +1407,13 @@
       "subject": "Programming for Problem Solving",
       "year": 2022,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100104__Programming%20for%20Problem%20Solving__2022.pdf"
+    },
+    {
+      "id": "100713-2022",
+      "code": "100713",
+      "subject": "Soft skills and interpersonal communications",
+      "year": 2022,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100713__Soft%20skills%20and%20interpersonal%20communications__2022.pdf"
     },
     {
       "id": "105504-2022",
