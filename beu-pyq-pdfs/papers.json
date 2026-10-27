@@ -233,6 +233,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2025.pdf"
     },
     {
+      "id": "105713-2025",
+      "code": "105713",
+      "subject": "Cyber Security",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105713__Cyber%20Security__2025.pdf"
+    },
+    {
       "id": "105701-2025",
       "code": "105701",
       "subject": "Data Science",
