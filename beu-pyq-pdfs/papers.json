@@ -23,6 +23,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100209__Basic%20Electronics__2026.pdf"
     },
     {
+      "id": "100601-2026",
+      "code": "100601",
+      "subject": "Biology for Engineers",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100601__Biology%20for%20Engineers__2026.pdf"
+    },
+    {
       "id": "100816-2026",
       "code": "100816",
       "subject": "Bitcoin and Crypto Currencies",
@@ -56,6 +63,27 @@
       "subject": "Computer Networks",
       "year": 2026,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100602__Computer%20Networks__2026.pdf"
+    },
+    {
+      "id": "104601-2026",
+      "code": "104601",
+      "subject": "Computer Organization and Architecture",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104601__Computer%20Organization%20and%20Architecture__2026.pdf"
+    },
+    {
+      "id": "104606-2026",
+      "code": "104606",
+      "subject": "Digital CMOS VLSI Design",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104606__Digital%20CMOS%20VLSI%20Design__2026.pdf"
+    },
+    {
+      "id": "104602-2026",
+      "code": "104602",
+      "subject": "Digital Communication",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104602__Digital%20Communication__2026.pdf"
     },
     {
       "id": "100204-2026",
@@ -254,6 +282,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2025.pdf"
     },
     {
+      "id": "105616-2025",
+      "code": "105616",
+      "subject": "Cryptography and Network Security",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105616__Cryptography%20and%20Network%20Security__2025.pdf"
+    },
+    {
       "id": "105713-2025",
       "code": "105713",
       "subject": "Cyber Security",
@@ -415,6 +450,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101504__Hydraulic%20Engineering__2025.pdf"
     },
     {
+      "id": "153603-2025",
+      "code": "153603",
+      "subject": "Image and Video Processing",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/153603__Image%20and%20Video%20Processing__2025.pdf"
+    },
+    {
       "id": "101305-2025",
       "code": "101305",
       "subject": "Introduction to Fluid Mechanics",
@@ -448,6 +490,13 @@
       "subject": "Materials, Testing & Evaluation",
       "year": 2025,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101306__Materials%2C%20Testing%20%26%20Evaluation__2025.pdf"
+    },
+    {
+      "id": "110601-2025",
+      "code": "110601",
+      "subject": "Measurements and Instrumentation",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110601__Measurements%20and%20Instrumentation__2025.pdf"
     },
     {
       "id": "100504-2025",
@@ -637,6 +686,13 @@
       "subject": "Computer Organization & Architecture",
       "year": 2024,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2024.pdf"
+    },
+    {
+      "id": "104606-2024",
+      "code": "104606",
+      "subject": "Digital CMOS VLSI Design",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104606__Digital%20CMOS%20VLSI%20Design__2024.pdf"
     },
     {
       "id": "104602-2024",
