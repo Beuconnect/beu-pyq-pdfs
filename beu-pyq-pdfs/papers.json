@@ -730,6 +730,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103402__Electrical%20Machine%20-%20II__2024.pdf"
     },
     {
+      "id": "100308-2024",
+      "code": "100308",
+      "subject": "Electromagnetic Fields",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100308__Electromagnetic%20Fields__2024.pdf"
+    },
+    {
       "id": "104404-2024",
       "code": "104404",
       "subject": "Electromagnetic Theory",
@@ -791,6 +798,13 @@
       "subject": "Engineering Mathematics -I",
       "year": 2024,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105102__Engineering%20Mathematics%20-I__2024.pdf"
+    },
+    {
+      "id": "100310-2024",
+      "code": "100310",
+      "subject": "Engineering Mechanics",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100310__Engineering%20Mechanics__2024.pdf"
     },
     {
       "id": "101101-2024",
@@ -1106,6 +1120,13 @@
       "subject": "Human Resource Development and Organizational Behavior",
       "year": 2023,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100407__Human%20Resource%20Development%20and%20Organizational%20Behavior__2023.pdf"
+    },
+    {
+      "id": "101305-2023",
+      "code": "101305",
+      "subject": "Humanities-I (Effective Technical Communication)",
+      "year": 2023,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101305__Humanities-I%20%28Effective%20Technical%20Communication%29__2023.pdf"
     },
     {
       "id": "101504-2023",
