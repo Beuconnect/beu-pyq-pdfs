@@ -1717,6 +1717,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101503__Geotechnical%20Engineering%20-%20I__2021.pdf"
     },
     {
+      "id": "102502-2021",
+      "code": "102502",
+      "subject": "Heat Transfer",
+      "year": 2021,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/102502__Heat%20Transfer__2021.pdf"
+    },
+    {
       "id": "105710-2021",
       "code": "105710",
       "subject": "History of Science and Technology in India",
