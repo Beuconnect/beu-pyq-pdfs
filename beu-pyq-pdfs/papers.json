@@ -121,6 +121,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101403__Geotechnical%20Engineering-I__2026.pdf"
     },
     {
+      "id": "101404-2026",
+      "code": "101404",
+      "subject": "Hydraulic Engineering",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101404__Hydraulic%20Engineering__2026.pdf"
+    },
+    {
       "id": "155609-2026",
       "code": "155609",
       "subject": "INTRODUCTION TO INDUSTRY 4.0",
