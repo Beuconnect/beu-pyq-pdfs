@@ -107,6 +107,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100215__Engineering%20Chemistry__2026.pdf"
     },
     {
+      "id": "101406-2026",
+      "code": "101406",
+      "subject": "Engineering Geology",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101406__Engineering%20Geology__2026.pdf"
+    },
+    {
       "id": "100202-2026",
       "code": "100202",
       "subject": "Engineering Mathematics - II",
