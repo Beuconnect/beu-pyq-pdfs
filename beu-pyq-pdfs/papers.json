@@ -114,6 +114,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100201__Engineering%20Physics__2026.pdf"
     },
     {
+      "id": "101403-2026",
+      "code": "101403",
+      "subject": "Geotechnical Engineering-I",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101403__Geotechnical%20Engineering-I__2026.pdf"
+    },
+    {
       "id": "155609-2026",
       "code": "155609",
       "subject": "INTRODUCTION TO INDUSTRY 4.0",
@@ -161,6 +168,13 @@
       "subject": "Python Programming",
       "year": 2026,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/155612__Python%20Programming__2026.pdf"
+    },
+    {
+      "id": "101401-2026",
+      "code": "101401",
+      "subject": "Transportation Engineering",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101401__Transportation%20Engineering__2026.pdf"
     },
     {
       "id": "105614-2026",
