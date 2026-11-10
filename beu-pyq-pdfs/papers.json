@@ -184,6 +184,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/155612__Python%20Programming__2026.pdf"
     },
     {
+      "id": "101405-2026",
+      "code": "101405",
+      "subject": "Structural Analysis",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101405__Structural%20Analysis__2026.pdf"
+    },
+    {
       "id": "101401-2026",
       "code": "101401",
       "subject": "Transportation Engineering",
