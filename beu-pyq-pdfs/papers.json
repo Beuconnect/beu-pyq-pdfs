@@ -37,6 +37,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100816__Bitcoin%20and%20Crypto%20Currencies__2026.pdf"
     },
     {
+      "id": "101402-2026",
+      "code": "101402",
+      "subject": "Building Planning and Computer-Aided Civil Engineering Drawing",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101402__Building%20Planning%20and%20Computer-Aided%20Civil%20Engineering%20Drawing__2026.pdf"
+    },
+    {
       "id": "100817-2026",
       "code": "100817",
       "subject": "Cloud Computing",
