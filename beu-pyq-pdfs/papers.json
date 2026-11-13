@@ -233,6 +233,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/110501__Analog%20and%20Digital%20Communication%20System__2025.pdf"
     },
     {
+      "id": "103302-2025",
+      "code": "103302",
+      "subject": "Analog Electronics",
+      "year": 2025,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103302__Analog%20Electronics__2025.pdf"
+    },
+    {
       "id": "155703-2025",
       "code": "155703",
       "subject": "Application of IoT in Robotics",
