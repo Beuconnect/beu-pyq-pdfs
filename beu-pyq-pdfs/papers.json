@@ -877,6 +877,13 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100110__Engineering%20Physics__2024.pdf"
     },
     {
+      "id": "101502-2024",
+      "code": "101502",
+      "subject": "ENVIRONMENTAL ENGINEERING-I",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101502__ENVIRONMENTAL%20ENGINEERING-I__2024.pdf"
+    },
+    {
       "id": "101605-2024",
       "code": "101605",
       "subject": "Environmental Engineering-II",
