@@ -93,6 +93,27 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104602__Digital%20Communication__2026.pdf"
     },
     {
+      "id": "103401-2026",
+      "code": "103401",
+      "subject": "DIGITAL ELECTRONICS",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103401__DIGITAL%20ELECTRONICS__2026.pdf"
+    },
+    {
+      "id": "103403-2026",
+      "code": "103403",
+      "subject": "ELECTRICAL MACHINES-II",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103403__ELECTRICAL%20MACHINES-II__2026.pdf"
+    },
+    {
+      "id": "103404-2026",
+      "code": "103404",
+      "subject": "ELECTROMAGNETIC FIELD THEORY",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103404__ELECTROMAGNETIC%20FIELD%20THEORY__2026.pdf"
+    },
+    {
       "id": "100204-2026",
       "code": "100204",
       "subject": "Elements of Mechanical Engineering",
@@ -938,6 +959,13 @@
       "subject": "Materials, Testing & Evaluation",
       "year": 2024,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/101406__Materials%2C%20Testing%20%26%20Evaluation__2024.pdf"
+    },
+    {
+      "id": "103403-2024",
+      "code": "103403",
+      "subject": "MATHEMATICS-III (PROBABILITY AND STATISTICS)",
+      "year": 2024,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103403__MATHEMATICS-III%20%28PROBABILITY%20AND%20STATISTICS%29__2024.pdf"
     },
     {
       "id": "110601-2024",
