@@ -72,11 +72,39 @@
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100602__Computer%20Networks__2026.pdf"
     },
     {
+      "id": "105406-2026",
+      "code": "105406",
+      "subject": "Computer Networks",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105406__Computer%20Networks__2026.pdf"
+    },
+    {
+      "id": "105401-2026",
+      "code": "105401",
+      "subject": "Computer Organization & Architecture",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105401__Computer%20Organization%20%26%20Architecture__2026.pdf"
+    },
+    {
       "id": "104601-2026",
       "code": "104601",
       "subject": "Computer Organization and Architecture",
       "year": 2026,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/104601__Computer%20Organization%20and%20Architecture__2026.pdf"
+    },
+    {
+      "id": "105404-2026",
+      "code": "105404",
+      "subject": "Database Management System",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105404__Database%20Management%20System__2026.pdf"
+    },
+    {
+      "id": "105403-2026",
+      "code": "105403",
+      "subject": "Design and Analysis of Algorithms",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105403__Design%20and%20Analysis%20of%20Algorithms__2026.pdf"
     },
     {
       "id": "104606-2026",
@@ -98,6 +126,13 @@
       "subject": "DIGITAL ELECTRONICS",
       "year": 2026,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/103401__DIGITAL%20ELECTRONICS__2026.pdf"
+    },
+    {
+      "id": "105405-2026",
+      "code": "105405",
+      "subject": "Effective Technical Communication",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105405__Effective%20Technical%20Communication__2026.pdf"
     },
     {
       "id": "103403-2026",
@@ -147,6 +182,13 @@
       "subject": "Engineering Physics",
       "year": 2026,
       "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/100201__Engineering%20Physics__2026.pdf"
+    },
+    {
+      "id": "105402-2026",
+      "code": "105402",
+      "subject": "Formal Language Automata Theory",
+      "year": 2026,
+      "pdfUrl": "https://raw.githubusercontent.com/Beuconnect/beu-pyq-pdfs/main/beu-pyq-pdfs/pdfs/105402__Formal%20Language%20Automata%20Theory__2026.pdf"
     },
     {
       "id": "101403-2026",
